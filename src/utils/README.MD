@@ -1,0 +1,1 @@
+# this folder will store all functions that will shared across the whole application.

@@ -1,0 +1,1 @@
+# this folder will store all translation files for localization of the applciation.

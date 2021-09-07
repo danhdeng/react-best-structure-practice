@@ -1,0 +1,1 @@
+# this folder will host all components for contructing the pages in the project 

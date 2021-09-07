@@ -1,0 +1,1 @@
+# this folder will store all pages for the project. we should break down each pages into different subfolders.
