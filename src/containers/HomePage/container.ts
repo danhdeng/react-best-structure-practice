@@ -1,0 +1,1 @@
+// the styled component for each section in the page
